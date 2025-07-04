@@ -9,7 +9,7 @@ URDFの自動生成、MoveIt! 設定、RVizによる可視化、基本的な動�
 
 * ROS 2 Humble
 * MoveIt 2
-* マニピュレータ構成：6自由度 + ハンド
+* マニピュレータ構成：6自由度
 * URDFはCSVから自動生成（[`csv2urdf`](https://github.com/ttakubo/csv2urdf) ベース）
 
 ---
