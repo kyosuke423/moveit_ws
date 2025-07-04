@@ -1,0 +1,1 @@
+/home/das-note-021/253432010_gazebo_ws/build/sixdofarm_moveit_config/ament_cmake_environment_hooks/local_setup.sh

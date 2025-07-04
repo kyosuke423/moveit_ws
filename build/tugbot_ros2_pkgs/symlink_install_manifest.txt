@@ -1,0 +1,15 @@
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/ament_index/resource_index/package_run_dependencies/tugbot_ros2_pkgs
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/ament_index/resource_index/parent_prefix_path/tugbot_ros2_pkgs
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/environment/ament_prefix_path.sh
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/environment/ament_prefix_path.dsv
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/environment/path.sh
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/environment/path.dsv
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/local_setup.bash
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/local_setup.sh
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/local_setup.zsh
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/local_setup.dsv
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/package.dsv
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/ament_index/resource_index/packages/tugbot_ros2_pkgs
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/cmake/tugbot_ros2_pkgsConfig.cmake
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/cmake/tugbot_ros2_pkgsConfig-version.cmake
+/home/das-note-021/253432010_gazebo_ws/install/tugbot_ros2_pkgs/share/tugbot_ros2_pkgs/package.xml

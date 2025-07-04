@@ -1,0 +1,4 @@
+source;share/sixdofarm_moveit_config/local_setup.bash
+source;share/sixdofarm_moveit_config/local_setup.dsv
+source;share/sixdofarm_moveit_config/local_setup.sh
+source;share/sixdofarm_moveit_config/local_setup.zsh
