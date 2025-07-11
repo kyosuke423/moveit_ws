@@ -20,7 +20,7 @@ URDFの自動生成、MoveIt! 設定、RVizによる可視化、基本的な動�
 # ワークスペースの作成
 mkdir -p ~/moveit_ws/src
 cd ~/moveit_ws/src
-git clone [https://github.com/yourname/sixdofarm_moveit_example.git](https://github.com/kyosuke423/moveit_ws.git)
+git clone https://github.com/kyosuke423/moveit_ws.git
 cd ..
 colcon build
 source install/setup.bash
