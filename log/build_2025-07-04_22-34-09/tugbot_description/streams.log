@@ -1,0 +1,81 @@
+[0.018s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake /home/das-note-021/moveit_ws/src/tugbot_ros2_pkgs/tugbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/das-note-021/moveit_ws/install/tugbot_description
+[0.059s] -- The C compiler identification is GNU 11.4.0
+[0.106s] -- The CXX compiler identification is GNU 11.4.0
+[0.114s] -- Detecting C compiler ABI info
+[0.167s] -- Detecting C compiler ABI info - done
+[0.175s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.175s] -- Detecting C compile features
+[0.176s] -- Detecting C compile features - done
+[0.178s] -- Detecting CXX compiler ABI info
+[0.228s] -- Detecting CXX compiler ABI info - done
+[0.235s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.235s] -- Detecting CXX compile features
+[0.235s] -- Detecting CXX compile features - done
+[0.238s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.366s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.411s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.447s] -- Found robot_state_publisher: 3.0.3 (/opt/ros/humble/share/robot_state_publisher/cmake)
+[0.479s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.487s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.494s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.503s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.516s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.559s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[0.560s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[0.560s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[0.598s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.601s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.620s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.629s] -- Looking for pthread.h
+[0.687s] -- Looking for pthread.h - found
+[0.687s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.737s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.738s] -- Found Threads: TRUE  
+[0.869s] -- Found xacro: 2.0.13 (/opt/ros/humble/share/xacro/cmake)
+[0.871s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.933s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.933s] -- Added test 'lint_cmake' to check CMake code style
+[0.934s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.935s] -- Added test 'xmllint' to check XML markup files
+[0.936s] -- Configuring done
+[0.938s] -- Generating done
+[0.939s] -- Build files have been written to: /home/das-note-021/moveit_ws/build/tugbot_description
+[0.947s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake /home/das-note-021/moveit_ws/src/tugbot_ros2_pkgs/tugbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/das-note-021/moveit_ws/install/tugbot_description
+[0.947s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --build /home/das-note-021/moveit_ws/build/tugbot_description -- -j22 -l22
+[0.982s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --build /home/das-note-021/moveit_ws/build/tugbot_description -- -j22 -l22
+[0.983s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --install /home/das-note-021/moveit_ws/build/tugbot_description
+[0.991s] -- Install configuration: ""
+[0.991s] -- Execute custom install script
+[0.991s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//launch/tugbot_description.launch.py
+[0.997s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_1.dae
+[1.004s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/VLP16_base_2.dae
+[1.011s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/VLP16_scan.dae
+[1.018s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/base/logo-new.png
+[1.025s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/base/movai-logo.png
+[1.032s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/base/movai_logo.dae
+[1.039s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.dae
+[1.045s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/base/tugbot_simp.stl
+[1.053s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper2.dae
+[1.059s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/gripper2/gripper_hand.stl
+[1.068s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/light_link/light.stl
+[1.076s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/light_link/light_led.stl
+[1.082s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//meshes/wheel/wheel.dae
+[1.089s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//urdf/model.sdf
+[1.095s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//urdf/model.urdf
+[1.100s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description//urdf/rviz.rviz
+[1.105s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/ament_index/resource_index/package_run_dependencies/tugbot_description
+[1.111s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/ament_index/resource_index/parent_prefix_path/tugbot_description
+[1.117s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.sh
+[1.124s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/environment/ament_prefix_path.dsv
+[1.129s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/environment/path.sh
+[1.136s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/environment/path.dsv
+[1.143s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/local_setup.bash
+[1.148s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/local_setup.sh
+[1.155s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/local_setup.zsh
+[1.161s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/local_setup.dsv
+[1.166s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/package.dsv
+[1.174s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/ament_index/resource_index/packages/tugbot_description
+[1.180s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig.cmake
+[1.186s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/cmake/tugbot_descriptionConfig-version.cmake
+[1.192s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_description/share/tugbot_description/package.xml
+[1.200s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --install /home/das-note-021/moveit_ws/build/tugbot_description

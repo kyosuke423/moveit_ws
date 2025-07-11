@@ -1,6 +1,6 @@
 set(_AMENT_PACKAGE_NAME "sixdofarm_moveit_config")
 set(sixdofarm_moveit_config_VERSION "0.3.0")
-set(sixdofarm_moveit_config_MAINTAINER "Kameyama Kyosuke <253432010@ccmailg.meijo-u.ac.jp>")
+set(sixdofarm_moveit_config_MAINTAINER "Kyosuke Kameyama <253432010@ccmailg.meijo-u.ac.jp>")
 set(sixdofarm_moveit_config_BUILD_DEPENDS )
 set(sixdofarm_moveit_config_BUILDTOOL_DEPENDS "ament_cmake")
 set(sixdofarm_moveit_config_BUILD_EXPORT_DEPENDS )

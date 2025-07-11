@@ -1,1 +1,1 @@
-/home/das-note-021/253432010_gazebo_ws/src/tugbot_ros2_pkgs/tugbot_navigation2/launch/navigation2.launch.py
+/home/das-note-021/moveit_ws/src/tugbot_ros2_pkgs/tugbot_navigation2/launch/navigation2.launch.py

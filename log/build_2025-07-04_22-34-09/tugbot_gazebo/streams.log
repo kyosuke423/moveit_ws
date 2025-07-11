@@ -1,0 +1,49 @@
+[0.016s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake /home/das-note-021/moveit_ws/src/tugbot_ros2_pkgs/tugbot_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/das-note-021/moveit_ws/install/tugbot_gazebo
+[0.060s] -- The C compiler identification is GNU 11.4.0
+[0.093s] -- The CXX compiler identification is GNU 11.4.0
+[0.097s] -- Detecting C compiler ABI info
+[0.148s] -- Detecting C compiler ABI info - done
+[0.156s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.156s] -- Detecting C compile features
+[0.156s] -- Detecting C compile features - done
+[0.159s] -- Detecting CXX compiler ABI info
+[0.218s] -- Detecting CXX compiler ABI info - done
+[0.224s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.224s] -- Detecting CXX compile features
+[0.225s] -- Detecting CXX compile features - done
+[0.227s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.345s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.388s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.423s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.480s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.481s] -- Added test 'lint_cmake' to check CMake code style
+[0.481s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.482s] -- Added test 'xmllint' to check XML markup files
+[0.484s] -- Configuring done
+[0.487s] -- Generating done
+[0.487s] -- Build files have been written to: /home/das-note-021/moveit_ws/build/tugbot_gazebo
+[0.490s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake /home/das-note-021/moveit_ws/src/tugbot_ros2_pkgs/tugbot_gazebo -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/das-note-021/moveit_ws/install/tugbot_gazebo
+[0.492s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --build /home/das-note-021/moveit_ws/build/tugbot_gazebo -- -j22 -l22
+[0.532s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --build /home/das-note-021/moveit_ws/build/tugbot_gazebo -- -j22 -l22
+[0.533s] Invoking command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --install /home/das-note-021/moveit_ws/build/tugbot_gazebo
+[0.539s] -- Install configuration: ""
+[0.540s] -- Execute custom install script
+[0.540s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo//launch/ign_ros2_bridge.launch.py
+[0.548s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo//launch/tugbot_depot.launch.py
+[0.553s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo//worlds/tugbot_depot.sdf
+[0.562s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/ament_index/resource_index/package_run_dependencies/tugbot_gazebo
+[0.572s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/ament_index/resource_index/parent_prefix_path/tugbot_gazebo
+[0.576s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/environment/ament_prefix_path.sh
+[0.582s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/environment/ament_prefix_path.dsv
+[0.589s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/environment/path.sh
+[0.595s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/environment/path.dsv
+[0.603s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.bash
+[0.609s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.sh
+[0.618s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.zsh
+[0.626s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/local_setup.dsv
+[0.633s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/package.dsv
+[0.638s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/ament_index/resource_index/packages/tugbot_gazebo
+[0.647s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/cmake/tugbot_gazeboConfig.cmake
+[0.656s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/cmake/tugbot_gazeboConfig-version.cmake
+[0.662s] -- Symlinking: /home/das-note-021/moveit_ws/install/tugbot_gazebo/share/tugbot_gazebo/package.xml
+[0.669s] Invoked command in '/home/das-note-021/moveit_ws/build/tugbot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/das-note-021/kameyama_ws/install/ros2_aruco:/home/das-note-021/kameyama_ws/install/failure_detection:/home/das-note-021/kameyama_ws/install/bt_generator:/opt/ros/humble /usr/bin/cmake --install /home/das-note-021/moveit_ws/build/tugbot_gazebo

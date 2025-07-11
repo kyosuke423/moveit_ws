@@ -1,8 +1,8 @@
-# Install script for directory: /home/das-note-021/253432010_gazebo_ws/src/sixdofarm_moveit_config
+# Install script for directory: /home/das-note-021/moveit_ws/src/sixdofarm_moveit_config
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/das-note-021/253432010_gazebo_ws/install/sixdofarm_moveit_config")
+  set(CMAKE_INSTALL_PREFIX "/home/das-note-021/moveit_ws/install/sixdofarm_moveit_config")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -43,7 +43,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  include("/home/das-note-021/253432010_gazebo_ws/build/sixdofarm_moveit_config/ament_cmake_symlink_install/ament_cmake_symlink_install.cmake")
+  include("/home/das-note-021/moveit_ws/build/sixdofarm_moveit_config/ament_cmake_symlink_install/ament_cmake_symlink_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -54,5 +54,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/das-note-021/253432010_gazebo_ws/build/sixdofarm_moveit_config/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/das-note-021/moveit_ws/build/sixdofarm_moveit_config/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,1 +1,1 @@
-/home/das-note-021/253432010_gazebo_ws/build/tugbot_navigation2/ament_cmake_core/tugbot_navigation2Config.cmake
+/home/das-note-021/moveit_ws/build/tugbot_navigation2/ament_cmake_core/tugbot_navigation2Config.cmake
